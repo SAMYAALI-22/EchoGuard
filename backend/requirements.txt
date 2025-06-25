@@ -1,0 +1,15 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+python-dotenv==1.0.0
+
+# Optional: Real AI/ML libraries (uncomment when ready to implement)
+# textblob==0.17.1
+# transformers==4.30.0
+# torch==2.0.0
+# openai==0.27.8
+# twilio==8.5.0
+
+# Optional: Database libraries (for production)
+# psycopg2-binary==2.9.7  # PostgreSQL
+# pymongo==4.5.0          # MongoDB
+# sqlalchemy==2.0.19      # SQL ORM
