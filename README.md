@@ -1,16 +1,9 @@
-<<<<<<< HEAD
-# EchoGuard - AI Mental Health Monitoring System
-=======
 # 💚 EchoGuard
->>>>>>> bee77f17f5a5a24a3fee17a3b766e64b5aabbce8
 
 > _Because even the strongest voices sometimes need to be heard._
 
 ---
 
-<<<<<<< HEAD
-**EchoGuard** - Protecting mental health through AI innovation 🧠💙
-=======
 ## 🧠 What is EchoGuard?
 
 **EchoGuard** is a sweet little emotional support system I built with ❤️ at **AlgoArena 2025**.
@@ -64,7 +57,6 @@ All of this is done with:
 🌱 CSE student | Curious human  
 💌 samyaali648@gmail.com  
 🔗 [GitHub](https://github.com/SAMYAALI-22)
-
 ---
 
 ## 🏁 Built For
@@ -81,4 +73,3 @@ This project is free and open-source under the MIT License.
 Go ahead and make it even better. Or just use it when you feel a little blue.
 
 > Stay safe. Stay kind. Stay you 🌼
->>>>>>> bee77f17f5a5a24a3fee17a3b766e64b5aabbce8
