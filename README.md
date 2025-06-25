@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # EchoGuard - AI Mental Health Monitoring System
 
 🧠 **EchoGuard** is an AI-powered mental health monitoring system that detects emotional states from voice input and provides crisis alerts when distress is detected.
@@ -213,6 +212,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **EchoGuard** - Protecting mental health through AI innovation 🧠💙
-=======
-# EchoGuard
->>>>>>> 6545d4fffa15decc621ad158f01915eea0c39933
